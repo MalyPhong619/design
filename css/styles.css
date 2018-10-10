@@ -1,0 +1,11 @@
+body {
+  text-align: justify;
+}
+img {
+  width: 100%;
+}
+.steps {
+  width: 25%;
+  float: left;
+  padding: 5px;
+}
